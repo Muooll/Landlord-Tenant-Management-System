@@ -1,0 +1,571 @@
+// http://localhost:3000/api/tenant
+
+[
+  {
+    "homeAddress": {
+      "addressLine1": "61839 Chase Isle Suite 069",
+      "addressLine2": "Suite 869",
+      "town": "Acostaside",
+      "countyCity": "North Carolina",
+      "eircode": "72053"
+    },
+    "_id": "664000e014a403ac7c048a0b",
+    "title": "Mr",
+    "titleOther": null,
+    "firstName": "Scott",
+    "surname": "Reeves",
+    "mobile": "0213217409",
+    "email": "pamelabates@stephens.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "521 Charles Avenue",
+      "addressLine2": "Suite 112",
+      "town": "East Rodney",
+      "countyCity": "South Carolina",
+      "eircode": "40211"
+    },
+    "_id": "664000e014a403ac7c048a0e",
+    "title": "Dr",
+    "titleOther": null,
+    "firstName": "Kristin",
+    "surname": "Durham",
+    "mobile": "243564709",
+    "email": "ashleydaniel@yahoo.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "926 Friedman Extensions",
+      "addressLine2": "Apt. 144",
+      "town": "Rayside",
+      "countyCity": "Idaho",
+      "eircode": "81757"
+    },
+    "_id": "664000e014a403ac7c048a0f",
+    "title": "Mr",
+    "titleOther": null,
+    "firstName": "Kevin",
+    "surname": "Moreno",
+    "mobile": "7626830309",
+    "email": "whitevalerie@yahoo.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "4149 Ware Junction Suite 733",
+      "addressLine2": "Apt. 210",
+      "town": "Robertstad",
+      "countyCity": "Indiana",
+      "eircode": "43449"
+    },
+    "_id": "664000e014a403ac7c048a10",
+    "title": "Mx",
+    "titleOther": null,
+    "firstName": "Patrick",
+    "surname": "Kim",
+    "mobile": "0125260608",
+    "email": "tadkins@lewis.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "7977 Barrett Estate",
+      "addressLine2": "Apt. 369",
+      "town": "East Lesliemouth",
+      "countyCity": "Idaho",
+      "eircode": "57005"
+    },
+    "_id": "664000e014a403ac7c048a11",
+    "title": "Miss",
+    "titleOther": null,
+    "firstName": "Lindsey",
+    "surname": "Rollins",
+    "mobile": "312413253215",
+    "email": "sarahmiller@patel-graves.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "8299 Teresa Viaduct",
+      "addressLine2": "Apt. 670",
+      "town": "Humphreymouth",
+      "countyCity": "Michigan",
+      "eircode": "24848"
+    },
+    "_id": "664000e014a403ac7c048a12",
+    "title": "Mx",
+    "titleOther": null,
+    "firstName": "Vicki",
+    "surname": "Shepherd",
+    "mobile": "435435214",
+    "email": "julie04@hotmail.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "934 Glenn Burg",
+      "addressLine2": "Suite 616",
+      "town": "North Kathyborough",
+      "countyCity": "Florida",
+      "eircode": "79754"
+    },
+    "_id": "664000e014a403ac7c048a13",
+    "title": "Ms",
+    "titleOther": null,
+    "firstName": "Kimberly",
+    "surname": "Hall",
+    "mobile": "31243215436",
+    "email": "ernest19@hotmail.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "8323 Johnson Squares",
+      "addressLine2": "Suite 333",
+      "town": "Calebville",
+      "countyCity": "North Carolina",
+      "eircode": "61809"
+    },
+    "_id": "664000e014a403ac7c048a14",
+    "title": "Miss",
+    "titleOther": null,
+    "firstName": "Ronald",
+    "surname": "Terry",
+    "mobile": "0271653372",
+    "email": "ashleyfisher@owen-cooke.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "03005 Smith Glens",
+      "addressLine2": "Suite 734",
+      "town": "Hendricksborough",
+      "countyCity": "Vermont",
+      "eircode": "10441"
+    },
+    "_id": "664000e014a403ac7c048a0c",
+    "title": "Ms",
+    "titleOther": null,
+    "firstName": "Deborah",
+    "surname": "Rush",
+    "mobile": "123432152346",
+    "email": "wtorres@davis.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "6729 Mark Crossroad Apt. 943",
+      "addressLine2": "Apt. 986",
+      "town": "Lake Desireeborough",
+      "countyCity": "Pennsylvania",
+      "eircode": "81990"
+    },
+    "_id": "664000e014a403ac7c048a0d",
+    "title": "Miss",
+    "titleOther": null,
+    "firstName": "Mariah",
+    "surname": "Payne",
+    "mobile": "123431245564",
+    "email": "smithzachary@martinez.com",
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "934 Glenn Burg",
+      "addressLine2": "03005",
+      "town": "Calebville",
+      "countyCity": "North Carolina",
+      "eircode": "12345"
+    },
+    "_id": "66400e95a5215ba5f16f46d7",
+    "title": "Other",
+    "firstName": "Zifan",
+    "surname": "Luo",
+    "mobile": "23457914215",
+    "email": "zifanluo@example.com",
+    "__v": 0
+  }
+]
+
+
+
+
+
+
+// http://localhost:3000/api/landlord
+
+[
+  {
+    "homeAddress": {
+      "addressLine1": "4058 Stephen Circle Apt. 025",
+      "addressLine2": "Suite 252",
+      "town": "Cynthiaborough",
+      "countyCity": "Kentucky",
+      "eircode": "40787"
+    },
+    "_id": "664003434b73424edde049e1",
+    "title": "Ms",
+    "titleOther": null,
+    "firstName": "Erika",
+    "surname": "Simpson",
+    "mobile": "31256536",
+    "email": "robertjohnson@gmail.com",
+    "dob": "1994-03-11T00:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "986 Ramsey Gardens Apt. 025",
+      "addressLine2": "Suite 753",
+      "town": "Owensside",
+      "countyCity": "Mississippi",
+      "eircode": "01370"
+    },
+    "_id": "664003434b73424edde049e2",
+    "title": "Miss",
+    "titleOther": null,
+    "firstName": "Gregory",
+    "surname": "Herrera",
+    "mobile": "6662390230",
+    "email": "owensashley@gmail.com",
+    "dob": "1987-12-04T00:00:00.000Z",
+    "permissionToRent": true,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "83158 Seth Union Suite 118",
+      "addressLine2": "Suite 703",
+      "town": "North Jorgeshire",
+      "countyCity": "Georgia",
+      "eircode": "38759"
+    },
+    "_id": "664003434b73424edde049e5",
+    "title": "Mr",
+    "titleOther": null,
+    "firstName": "James",
+    "surname": "Dickson",
+    "mobile": "453645345321",
+    "email": "david74@yahoo.com",
+    "dob": "2020-10-30T00:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "8957 Jennifer Trail",
+      "addressLine2": "Suite 661",
+      "town": "Torreston",
+      "countyCity": "Pennsylvania",
+      "eircode": "87449"
+    },
+    "_id": "664003434b73424edde049e6",
+    "title": "Other",
+    "titleOther": "stop",
+    "firstName": "Tony",
+    "surname": "Perez",
+    "mobile": "1254236752",
+    "email": "matthewtaylor@yahoo.com",
+    "dob": "1941-07-17T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "9414 Tucker Passage",
+      "addressLine2": "Suite 033",
+      "town": "Holmeston",
+      "countyCity": "Rhode Island",
+      "eircode": "66723"
+    },
+    "_id": "664003434b73424edde049e7",
+    "title": "Mrs",
+    "titleOther": null,
+    "firstName": "Ashley",
+    "surname": "Roberts",
+    "mobile": "2345432656",
+    "email": "robertadams@hanna.com",
+    "dob": "1950-04-13T00:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "4254 Freeman Cliff Apt. 323",
+      "addressLine2": "Apt. 385",
+      "town": "Stevenstad",
+      "countyCity": "Massachusetts",
+      "eircode": "63906"
+    },
+    "_id": "664003434b73424edde049e8",
+    "title": "Other",
+    "titleOther": "thought",
+    "firstName": "Andrew",
+    "surname": "Liu",
+    "mobile": "3474367542",
+    "email": "mccormickdennis@hotmail.com",
+    "dob": "2012-07-22T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "3393 Diane Spurs Suite 226",
+      "addressLine2": "Apt. 357",
+      "town": "Murphystad",
+      "countyCity": "North Dakota",
+      "eircode": "35272"
+    },
+    "_id": "664003434b73424edde049e9",
+    "title": "Ms",
+    "titleOther": null,
+    "firstName": "Alex",
+    "surname": "Walker",
+    "mobile": "423513250",
+    "email": "caseyward@hotmail.com",
+    "dob": "1957-05-12T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "631 Solis Ramp Apt. 730",
+      "addressLine2": "Apt. 762",
+      "town": "Santiagoshire",
+      "countyCity": "Kansas",
+      "eircode": "57826"
+    },
+    "_id": "664003434b73424edde049ea",
+    "title": "Miss",
+    "titleOther": null,
+    "firstName": "Aaron",
+    "surname": "Stewart",
+    "mobile": "13243215436",
+    "email": "charlesmeyer@fields-hansen.com",
+    "dob": "1979-05-11T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "2376 Lozano Fort",
+      "addressLine2": "Suite 157",
+      "town": "Lake Greg",
+      "countyCity": "Idaho",
+      "eircode": "72960"
+    },
+    "_id": "664003434b73424edde049e4",
+    "title": "Mr",
+    "titleOther": null,
+    "firstName": "Brian",
+    "surname": "Potter",
+    "mobile": "32142151426",
+    "email": "jeffreysolis@parrish.info",
+    "dob": "1979-05-13T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  },
+  {
+    "homeAddress": {
+      "addressLine1": "6363 Jeffrey Squares Suite 341",
+      "addressLine2": "Apt. 160",
+      "town": "Melissaborough",
+      "countyCity": "North Carolina",
+      "eircode": "48230"
+    },
+    "_id": "664003434b73424edde049e3",
+    "title": "Mr",
+    "titleOther": null,
+    "firstName": "Robin",
+    "surname": "Martin",
+    "mobile": "8283243422",
+    "email": "gwoods@herman.com",
+    "dob": "1991-08-14T23:00:00.000Z",
+    "permissionToRent": false,
+    "allowContactByEmail": false,
+    "__v": 0
+  }
+]
+
+
+
+
+
+
+// http://localhost:3000/api/contract
+
+[
+  {
+    "_id": "664006f3273ed03d027846e7",
+    "contractDate": "2023-05-27T00:00:00.000Z",
+    "propertyAddress": "48579 Coleman Prairie Suite 792\nNew Christina, FL 08892",
+    "tenants": [
+      "664000e014a403ac7c048a10"
+    ],
+    "landlord": "664003434b73424edde049e9",
+    "feeMonthly": 1298.49,
+    "propertyDoorNumber": "98577",
+    "contractLength": "Permanent",
+    "propertyType": "Semi-Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846e6",
+    "contractDate": "2024-04-27T00:00:00.000Z",
+    "propertyAddress": "324 Smith Squares Suite 342\nVictoriaport, CA 90037",
+    "tenants": [
+      "664000e014a403ac7c048a10",
+      "664000e014a403ac7c048a11",
+      "664000e014a403ac7c048a12"
+    ],
+    "landlord": "664003434b73424edde049e5",
+    "feeMonthly": 1281.7,
+    "propertyDoorNumber": "87211",
+    "contractLength": "Permanent",
+    "propertyType": "Other",
+    "propertyTypeOther": "century",
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846e8",
+    "contractDate": "2024-01-02T00:00:00.000Z",
+    "propertyAddress": "22142 Cook Circle\nNorth Michellechester, NM 44255",
+    "tenants": [
+      "664000e014a403ac7c048a12"
+    ],
+    "landlord": "664003434b73424edde049ea",
+    "feeMonthly": 1077.86,
+    "propertyDoorNumber": "22083",
+    "contractLength": "Month",
+    "propertyType": "Semi-Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846eb",
+    "contractDate": "2023-12-09T00:00:00.000Z",
+    "propertyAddress": "PSC 3222, Box 2326\nAPO AE 44347",
+    "tenants": [
+      "664000e014a403ac7c048a0b",
+      "664000e014a403ac7c048a11"
+    ],
+    "landlord": "664003434b73424edde049e2",
+    "feeMonthly": 1277.86,
+    "propertyDoorNumber": "6452",
+    "contractLength": "Permanent",
+    "propertyType": "Apartment",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846ed",
+    "contractDate": "2024-04-09T00:00:00.000Z",
+    "propertyAddress": "7609 Newton Extension Apt. 443\nJacquelineberg, WY 38373",
+    "tenants": [
+      "664000e014a403ac7c048a0e",
+      "664000e014a403ac7c048a0f",
+      "664000e014a403ac7c048a0b"
+    ],
+    "landlord": "664003434b73424edde049ea",
+    "feeMonthly": 1272.69,
+    "propertyDoorNumber": "11107",
+    "contractLength": "Month",
+    "propertyType": "Semi-Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846ec",
+    "contractDate": "2023-12-20T00:00:00.000Z",
+    "propertyAddress": "037 Daniel Cliffs\nHendersonburgh, NJ 17132",
+    "tenants": [
+      "664000e014a403ac7c048a13"
+    ],
+    "landlord": "664003434b73424edde049e1",
+    "feeMonthly": 1801.76,
+    "propertyDoorNumber": "343",
+    "contractLength": "Permanent",
+    "propertyType": "Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846ef",
+    "contractDate": "2023-01-25T00:00:00.000Z",
+    "propertyAddress": "911 Danielle Loaf Suite 009\nKristinaview, MN 94643",
+    "tenants": [
+      "664000e014a403ac7c048a14",
+      "664000e014a403ac7c048a0c",
+      "664000e014a403ac7c048a11"
+    ],
+    "landlord": "664003434b73424edde049e9",
+    "feeMonthly": 991.92,
+    "propertyDoorNumber": "80352",
+    "contractLength": "Year",
+    "propertyType": "Semi-Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846ee",
+    "contractDate": "2024-04-27T00:00:00.000Z",
+    "propertyAddress": "52577 Jamie Isle Suite 393\nTammytown, KY 31908",
+    "tenants": [
+      "664000e014a403ac7c048a14",
+      "664000e014a403ac7c048a0e",
+      "664000e014a403ac7c048a0c"
+    ],
+    "landlord": "664003434b73424edde049e8",
+    "feeMonthly": 1336.59,
+    "propertyDoorNumber": "9408",
+    "contractLength": "Year",
+    "propertyType": "Other",
+    "propertyTypeOther": "responsibility",
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846ea",
+    "contractDate": "2023-08-15T00:00:00.000Z",
+    "propertyAddress": "2179 Davidson Hollow Apt. 163\nPort Johnshire, MD 18854",
+    "tenants": [
+      "664000e014a403ac7c048a0c",
+      "664000e014a403ac7c048a0d"
+    ],
+    "landlord": "664003434b73424edde049e4",
+    "feeMonthly": 1469.04,
+    "propertyDoorNumber": "0312",
+    "contractLength": "Permanent",
+    "propertyType": "Other",
+    "propertyTypeOther": "trade",
+    "__v": 0
+  },
+  {
+    "_id": "664006f3273ed03d027846e9",
+    "contractDate": "2023-08-20T23:00:00.000Z",
+    "propertyAddress": "05429 Eric ShoreWest Arthurview, AZ 50546",
+    "tenants": [
+      "664000e014a403ac7c048a14",
+      "664000e014a403ac7c048a12"
+    ],
+    "landlord": "664003434b73424edde049e9",
+    "feeMonthly": 1686.32,
+    "propertyDoorNumber": "84212",
+    "contractLength": "Month",
+    "propertyType": "Detached",
+    "propertyTypeOther": null,
+    "__v": 0
+  }
+]
